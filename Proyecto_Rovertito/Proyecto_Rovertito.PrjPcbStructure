@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Communications.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Communications.SchDoc|FileName=Control_Unit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Communications.SchDoc|FileName=IMUs.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Communications.SchDoc|FileName=Motor_drivers.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Communications.SchDoc|FileName=Power.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Communications.SchDoc|FileName=Top_Sheet.SchDoc|SheetNumber=1
