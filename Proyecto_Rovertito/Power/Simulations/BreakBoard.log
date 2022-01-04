@@ -1,0 +1,44 @@
+Circuit: * J:\Julia\Documentos\SpaceBee\Electronics\Power\BreakBoard\BreakBoard.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v8.  Increasing period to 30
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v7.  Increasing period to 30
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v6.  Increasing period to 30
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v5.  Increasing period to 30
+WARNING: Node NC_11 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u1:6)
+Ignoring empty pin current: Ix(u1:7)
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u1:9)
+Ignoring empty pin current: Ix(u1:10)
+Ignoring empty pin current: Ix(u1:11)
+Ignoring empty pin current: Ix(u1:12)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u1:6)
+Ignoring empty pin current: Ix(u1:7)
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u1:9)
+Ignoring empty pin current: Ix(u1:10)
+Ignoring empty pin current: Ix(u1:11)
+Ignoring empty pin current: Ix(u1:12)
+Heightened Def Con from 30 to 30
+
+Date: Sat Jan 01 22:36:04 2022
+Total elapsed time: 0.081 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3266
+traniter = 3248
+tranpoints = 1514
+accept = 1471
+rejected = 44
+matrix size = 40
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.78 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.3/0.2
+
