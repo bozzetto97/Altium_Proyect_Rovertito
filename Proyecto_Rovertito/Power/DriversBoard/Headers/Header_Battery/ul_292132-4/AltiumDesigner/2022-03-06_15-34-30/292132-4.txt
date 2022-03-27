@@ -1,0 +1,76 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "292132-4_TYC")
+Pad (Name "1") (Location -0.00000103, 0) (HoleSize 34) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Top)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Bottom)
+PadShape (Size 54, 54) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "2") (Location 78.74009897, 0) (HoleSize 34) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Top)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Bottom)
+PadShape (Size 54, 54) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "3") (Location 157.48029897, 0) (HoleSize 34) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Top)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Bottom)
+PadShape (Size 54, 54) (Shape Rounded) (Layer MidLayer)
+EndPad
+Pad (Name "4") (Location 236.22039897, 0) (HoleSize 34) (Surface False) (Rotation 0) (ExpandMask 0)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Top)
+PadShape (Size 54, 54) (Shape Rounded) (Layer Bottom)
+PadShape (Size 54, 54) (Shape Rounded) (Layer MidLayer)
+EndPad
+Line (Width 6) (Start -72.88980103, 160) (End -72.88980103, -88) (Layer Mechanical15) 
+Line (Width 6) (Start -72.88980103, -88) (End 333.11019897, -88) (Layer Mechanical15) 
+Line (Width 6) (Start 333.11019897, -88) (End 333.11019897, 160) (Layer Mechanical15) 
+Line (Width 6) (Start 333.11019897, 160) (End -72.88980103, 160) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-72.88980103, 160)
+Point (-72.88980103, -88)
+Point (333.11019897, -88)
+Point (333.11019897, 160)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (448.11019897, 275)
+Point (448.11019897, -203)
+Point (-187.88980103, -203)
+Point (-187.88980103, 275)
+EndPolygon
+Line (Width 6) (Start -67.88980103, -83) (End 328.11019897, -83) (Layer TopOverlay) 
+Line (Width 6) (Start 328.11019897, -83) (End 328.11019897, 155) (Layer TopOverlay) 
+Line (Width 6) (Start 328.11019897, 155) (End -67.88980103, 155) (Layer TopOverlay) 
+Line (Width 6) (Start -67.88980103, 155) (End -67.88980103, -83) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location -137.88980103, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -62.88980103, -78) (End 323.11019897, -78) (Layer Mechanical13) 
+Line (Width 1) (Start 323.11019897, -78) (End 323.11019897, 150) (Layer Mechanical13) 
+Line (Width 1) (Start 323.11019897, 150) (End -62.88980103, 150) (Layer Mechanical13) 
+Line (Width 1) (Start -62.88980103, 150) (End -62.88980103, -78) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location 0, -75) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -137.88980103, 0) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+Step (Name 292132-4_TYC.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "292132-4") (PartCount 1) (DesPrefix "J?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "A1") (Name Visible "A1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "A2") (Name Visible "A2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 1700, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "A3") (Name Visible "A3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 1700, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "A4") (Name Visible "A4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Rectangle (Width 5) (Start 300, -300) (End 1700, 200) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2022 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "TE Connectivity") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "292132-4") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_1") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "A98779-ND") (Part 1)
+Parameter (Name "RefDes") (Location 1000, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 1000, 300) (Height 82) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "292132-4") (Part 1)
+Footprint (Name "292132-4_TYC")
+EndComponent
+EndComponents
