@@ -1,0 +1,79 @@
+# Created by Ultra Librarian Gold 8.3.307 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "0154Series_LTF")
+Pad (Name "1") (Location -125.5, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 167, 150) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 125.5, 0) (Surface True) (Rotation 180) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 167, 150) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -219, -85) (End -219, 85) (Layer Mechanical15) 
+Line (Width 6) (Start -219, 85) (End -201.5, 85) (Layer Mechanical15) 
+Line (Width 6) (Start 201.5, 85) (End 219, 85) (Layer Mechanical15) 
+Line (Width 6) (Start 219, 85) (End 219, -85) (Layer Mechanical15) 
+Line (Width 6) (Start 219, -85) (End 201.5, -85) (Layer Mechanical15) 
+Line (Width 6) (Start -201.5, -85) (End -219, -85) (Layer Mechanical15) 
+Line (Width 6) (Start -201.5, -109) (End -201.5, -85) (Layer Mechanical15) 
+Line (Width 6) (Start -201.5, 85) (End -201.5, 109) (Layer Mechanical15) 
+Line (Width 6) (Start -201.5, 109) (End 201.5, 109) (Layer Mechanical15) 
+Line (Width 6) (Start 201.5, 109) (End 201.5, 85) (Layer Mechanical15) 
+Line (Width 6) (Start 201.5, -85) (End 201.5, -109) (Layer Mechanical15) 
+Line (Width 6) (Start 201.5, -109) (End -201.5, -109) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-219, -85)
+Point (-219, 85)
+Point (-201.5, 85)
+Point (-201.5, 109)
+Point (201.5, 109)
+Point (201.5, 85)
+Point (219, 85)
+Point (219, -85)
+Point (201.5, -85)
+Point (201.5, -109)
+Point (-201.5, -109)
+Point (-201.5, -85)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical5) 
+Point (-216.5, -106.5)
+Point (-216.5, 106.5)
+Point (216.5, 106.5)
+Point (216.5, -106.5)
+EndPolygon
+Line (Width 6) (Start 196.5, 88.10000038) (End 196.5, 104) (Layer TopOverlay) 
+Line (Width 6) (Start -305.5, 0) (End -335.5, 0) (Layer TopOverlay) 
+Line (Width 6) (Start -320.5, 15) (End -320.5, -15) (Layer TopOverlay) 
+Line (Width 6) (Start -196.5, -104) (End 196.5, -104) (Layer TopOverlay) 
+Line (Width 6) (Start 196.5, -104) (End 196.5, -88.10000038) (Layer TopOverlay) 
+Line (Width 6) (Start 196.5, 104) (End -196.5, 104) (Layer TopOverlay) 
+Line (Width 6) (Start -196.5, 104) (End -196.5, 88.10000038) (Layer TopOverlay) 
+Line (Width 6) (Start -196.5, -88.10000038) (End -196.5, -104) (Layer TopOverlay) 
+Line (Width 1) (Start -305.5, 0) (End -335.5, 0) (Layer Mechanical13) 
+Line (Width 1) (Start -320.5, 15) (End -320.5, -15) (Layer Mechanical13) 
+Line (Width 1) (Start -191.5, -99) (End 191.5, -99) (Layer Mechanical13) 
+Line (Width 1) (Start 191.5, -99) (End 191.5, 99) (Layer Mechanical13) 
+Line (Width 1) (Start 191.5, 99) (End -191.5, 99) (Layer Mechanical13) 
+Line (Width 1) (Start -191.5, 99) (End -191.5, -99) (Layer Mechanical13) 
+Step (Name 0154Series_LTF.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "015403.5DRT") (PartCount 1) (DesPrefix "F?")
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Arc (Width 10) (Radius 50) (Location 150, 0) (StartAngle 0) (EndAngle 180) (Part 1)
+Arc (Width 10) (Radius 50) (Location 250, 0) (StartAngle 180) (EndAngle 360) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2022 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Littelfuse Inc") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "015403.5DRT") (Part 1)
+Parameter (Name "RefDes") (Location 200, 125) (Height 137) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 200, -250) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "015403.5DRT") (Part 1)
+Footprint (Name "0154Series_LTF")
+EndComponent
+EndComponents
