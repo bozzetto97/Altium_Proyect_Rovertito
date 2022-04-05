@@ -39,6 +39,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Headers\Header_6x1\AltiumDesigner\2022-04-05_00-02-43\5-103639-5.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HSPPNIWB
+
+[Document2]
+DocumentPath=Headers\Header_6x1\AltiumDesigner\2022-04-05_00-02-43\5-103639-5.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MMCRTNPK
+
+[Document3]
 DocumentPath=OpAmp_ForCurrent\ul_INA210BQDCKRQ1\AltiumDesigner\2022-03-27_11-18-06\INA210BQDCKRQ1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -55,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVHICGQA
 
-[Document2]
+[Document4]
 DocumentPath=OpAmp_ForCurrent\ul_INA210BQDCKRQ1\AltiumDesigner\2022-03-27_11-18-06\INA210BQDCKRQ1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWWVQUEX
 
-[Document3]
+[Document5]
 DocumentPath=DriversBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORIVUEDY
 
-[Document4]
+[Document6]
 DocumentPath=DriversBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKNMGYBY
 
-[Document5]
+[Document7]
 DocumentPath=2010_Shunt\AltiumDesigner\2022-03-22_11-07-54\WSL2010R2000FEA18.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTJHVIFA
 
-[Document6]
+[Document8]
 DocumentPath=Headers\Header_1x1\AltiumDesigner\2022-03-06_14-45-28\TSW-101-15-T-S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document9]
 DocumentPath=2010_Shunt\AltiumDesigner\2022-03-22_11-07-54\WSL2010R2000FEA18.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBOKDUGU
 
-[Document8]
+[Document10]
 DocumentPath=Headers\Header_1x1\AltiumDesigner\2022-03-06_14-45-28\TSW-101-15-T-S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document11]
 DocumentPath=Headers\Header_2x1\ul_TSW-102-05-T-S\AltiumDesigner\2022-03-06_16-04-47\TSW-102-05-T-S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document12]
 DocumentPath=Headers\Header_2x1\ul_TSW-102-05-T-S\AltiumDesigner\2022-03-06_16-04-47\TSW-102-05-T-S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document13]
 DocumentPath=Headers\Header_5x1\ul_HTSW-105-07-L-S\AltiumDesigner\2022-03-06_15-48-31\HTSW-105-07-L-S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document14]
 DocumentPath=Headers\Header_5x1\ul_HTSW-105-07-L-S\AltiumDesigner\2022-03-06_15-48-31\HTSW-105-07-L-S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
