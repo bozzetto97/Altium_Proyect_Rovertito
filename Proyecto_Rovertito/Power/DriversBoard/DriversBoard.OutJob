@@ -1,8 +1,21 @@
 [OutputJobFile]
 Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=DriversBoard.OutJob
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -69,11 +82,11 @@ Configuration2_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 Configuration2_Name11=OutputConfigurationParameter11
 Configuration2_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 PcbPrintPreferences2=
-OutputType3=BOM_PartType
-OutputName3=Bill of Materials
-OutputCategory3=Report
-OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputType3=PCBDrawing
+OutputName3=Draftsman
+OutputCategory3=Documentation
+OutputDocumentPath3=DriversBoard.PCBDwf
+OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=3
@@ -81,10 +94,20 @@ OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration3_Name1=ColumnNameFormat
-Configuration3_Item1=CaptionAsName
-Configuration3_Name2=General
-Configuration3_Item2=TemplateFilename=
+OutputType4=PCB 3D Print
+OutputName4=PCB 3D Print
+OutputCategory4=Documentation
+OutputDocumentPath4=DriversBoard.PcbDoc
+OutputVariantName4=
+OutputEnabled4=1
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=4
+OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium4=0
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.17|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=53900000|ViewY=34650000|LookAtX=119200000|LookAtY=55475000|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.66233766233766E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig= 
 
 [PublishSettings]
 OutputFilePath2=J:\Julia\Documentos\SpaceBee\REPOSITORIO\Altium_Proyect_Rovertito\Proyecto_Rovertito\Power\DriversBoard\.PDF
@@ -116,7 +139,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=
 ReleaseManaged3=1
-OutputBasePath3=
+OutputBasePath3=Project Outputs for DriversBoard
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -129,7 +152,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for DriversBoard
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
