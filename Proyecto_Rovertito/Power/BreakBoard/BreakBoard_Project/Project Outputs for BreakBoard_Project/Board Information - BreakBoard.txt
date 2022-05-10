@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : J:\Julia\Documentos\SpaceBee\REPOSITORIO\Altium_Proyect_Rovertito\Proyecto_Rovertito\Power\BreakBoard\BreakBoard.PcbDoc
-Date         : 07/03/2022
-Time         : 23:03:54
+Date         : 09/05/2022
+Time         : 23:54:38
 Time Elapsed : 00:00:00
 
 General
@@ -17,15 +17,15 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 89, 0, 116, 1, 0, 2, 0
+    Top Layer, 20, 89, 0, 303, 0, 0, 2, 0
     Bottom Layer, 0, 0, 0, 23, 0, 0, 2, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 23
     Mechanical 5, 0, 0, 0, 0, 0, 0, 23, 0
-    Mechanical 13, 23, 0, 0, 233, 5, 0, 0, 17
-    Mechanical 15, 0, 0, 0, 374, 0, 0, 23, 2
-    Multi-Layer, 0, 22, 210, 0, 0, 0, 1, 0
-    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 17, 0, 0, 189, 87, 0, 0, 0
+    Mechanical 13, 23, 0, 0, 213, 5, 0, 0, 12
+    Mechanical 15, 0, 0, 0, 344, 0, 0, 23, 2
+    Multi-Layer, 0, 29, 223, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 5, 0, 0
+    Top Overlay, 17, 0, 0, 179, 88, 0, 20, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 7, 0, 0, 0, 0, 0, 0, 0
@@ -36,18 +36,18 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
 count : 16
 
 Drill Pairs, Vias
-    Top Layer - Bottom Layer, 210
+    Top Layer - Bottom Layer, 223
 count : 1
 
 Track Width, Count
     0.0254mm, 157
     0.05mm, 4
-    0.1mm, 170
+    0.1mm, 120
     0.127mm, 21
     0.1524mm, 410
-    0.2mm, 34
-    0.254mm, 106
-    1.4732mm, 33
+    0.2mm, 24
+    0.254mm, 291
+    1.4732mm, 35
 count : 8
 
 Net Track Width, Count
