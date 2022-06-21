@@ -1,0 +1,14 @@
+[0619/215218:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[0619/215218:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0619/215218:ERROR:webgraphicscontext3d_command_buffer_impl.cc(199)] CommandBufferProxy::Initialize failed.
+[0619/215218:ERROR:webgraphicscontext3d_command_buffer_impl.cc(218)] Failed to initialize command buffer.
+[0620/093742:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/093747:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/093748:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0620/093749:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/170512:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/170517:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/170517:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/170518:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/170518:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0621/170519:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

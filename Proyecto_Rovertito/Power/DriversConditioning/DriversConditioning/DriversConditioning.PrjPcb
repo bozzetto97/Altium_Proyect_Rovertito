@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RWRAYDHH
 
 [Document3]
-DocumentPath=..\Librerias\LSHM-140-02\LSHM-140-02.5-L-DV-A-N-K-TR\LSHM-140-02.5-L-DV-A-N-K-TR.SchLib
+DocumentPath=..\..\DriversBoard\ConectorDriver\LSHM-140-02.5-L-DV-A-N-K-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\Librerias\LSHM-140-02\LSHM-140-02.5-L-DV-A-N-K-TR\SAMTEC_LSHM-140-02.5-L-DV-A-N-K-TR.PcbLib
+DocumentPath=..\..\DriversBoard\ConectorDriver\SAMTEC_LSHM-140-02.5-L-DV-A-N-K-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
