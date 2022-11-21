@@ -1,7 +1,0 @@
-[0522/181711:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto) (0x2740)
-[0522/181711:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
-[0522/181948:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'prefetch-src'.
-", source: https://www.altium.com/ad-start/ (0)
-[0522/181948:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
-[0522/181948:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
-", source: https://www.altium.com/ad-start/ (0)
